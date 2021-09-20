@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "SVG-based React Icon Library",
   "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "icon:generate": "svgr -d src/icon src/assets",
