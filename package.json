@@ -1,0 +1,19 @@
+{
+  "name": "react-svg-icon-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiayi1992/react-svg-icon-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiayi1992/react-svg-icon-library/issues"
+  },
+  "homepage": "https://github.com/jiayi1992/react-svg-icon-library#readme"
+}
