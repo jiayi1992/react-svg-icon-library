@@ -1,5 +1,5 @@
 {
-  "name": "react-svg-icon-library",
+  "name": "@jiayi920429/react-svg-icon-library",
   "version": "1.0.0",
   "description": "SVG-based React Icon Library",
   "module": "dist/index.esm.js",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/jiayi1992/react-svg-icon-library.git"
   },
-  "author": "",
+  "author": "jiayi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jiayi1992/react-svg-icon-library/issues"
